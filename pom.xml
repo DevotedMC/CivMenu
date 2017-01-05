@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>vg.civcraft.mc</groupId>
 	<artifactId>CivMenu</artifactId>
-	<version>1.4.5</version>
+	<version>1.4.6</version>
 	<packaging>jar</packaging>
 
 	<name>CivMenu</name>
@@ -33,13 +33,13 @@
 		<dependency>
 			<groupId>org.spigotmc</groupId>
 			<artifactId>spigot</artifactId>
-			<version>1.10.2-R0.1-SNAPSHOT</version>
+			<version>1.11-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>vg.civcraft.mc.civmodcore</groupId>
 			<artifactId>CivModCore</artifactId>
-			<version>1.5.09</version>
+			<version>1.5.11</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
