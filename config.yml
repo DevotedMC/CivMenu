@@ -1,5 +1,5 @@
 helpMenu:
-  message: 'Civcraft is a unique Minecraft server where the players make the rules. It's an experiment for communities, political ideologies, debate and discussion. Most Minecraft servers have rules, like “no griefing”, “no stealing”, or “be nice”. Civcraft doesn't. However, that doesn't mean you can run wild throughout the world, pillaging and plundering all that you come across, because Civcraft isn't an ordinary vanilla Minecraft server. We have a collection of plugins that encourages co-operation between players by increasing Minecraft's base difficulty tenfold and puts players in control of justice.'
+  message: 'Civcraft is a unique Minecraft server where the players make the rules. It''s an experiment for communities, political ideologies, debate and discussion. Most Minecraft servers have rules, like ï¿½no griefingï¿½, ï¿½no stealingï¿½, or ï¿½be niceï¿½. Civcraft doesn''t. However, that doesn''t mean you can run wild throughout the world, pillaging and plundering all that you come across, because Civcraft isn''t an ordinary vanilla Minecraft server. We have a collection of plugins that encourages co-operation between players by increasing Minecraft''s base difficulty tenfold and puts players in control of justice.'
   plugins: 'NameLayer, Citadel, JukeAlert, RealisticBiomes, ItemExchange, CivChat2'
 
 terms:
@@ -15,7 +15,7 @@ terms:
   message: 'Civcraft is an experiment for communities, political ideologies, debate and discussion. Before you can start playing and join a civilization you must first read and agree to the terms of service'
   link: 'http://www.google.com'
   linkMessage: 'You can click this message to open up the terms of service.'
-  confirm: 'Once you've read them, you can click this message to agree to the terms'
+  confirm: 'Once you''ve read them, you can click this message to agree to the terms'
   
 mysql:
   username: bukkit
